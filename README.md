@@ -76,8 +76,6 @@ python app.py
 ```
 
 ## Website Overview
-#### Home Page
-![image](https://github.com/Kowshik-407/Medical-Chatbot-Using-Llama2/assets/66817358/2337139c-9124-4ee0-a6ee-4fdf7c17f2e5)
 
 #### Prompt the Questions
 ![image](https://github.com/Kowshik-407/Medical-Chatbot-Using-Llama2/assets/66817358/4aca8507-b547-4883-b767-17d6cee81ad1)
