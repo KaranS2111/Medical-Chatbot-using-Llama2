@@ -1,19 +1,23 @@
 # Medical-Chatbot-Using-Llama2
-An End to End Medical Chatbot Project Using Llama2, LangChain, Flask, Pinecone
+# End-to-End Medical Chatbot Project Using Llama 2, LangChain, Flask, and Pinecone
 
-## Pre-requisites
-  - Install Anaconda and Python 3.8 in local system / Google Colab with Python to be installed
-  - VS Code
-  - If Anaconda is used the below are required:
-	  - Create a Virtual environment and activate it
-	  - Install all the packages in the Virutal Environment
+## Prerequisites
 
-#### Tech Stack used in this project:
-1. Python (Programming Language)
-2. LangChain (Generative AI)
-3. Flask (Web App Implementation)
-4. Llama 2 (LLM)
-5. Pinecone (VectorStore)
+- Install **Anaconda** and **Python 3.8** on your local machine, or use **Google Colab** with Python pre-installed.
+- Use **Visual Studio Code (VS Code)** as the development environment.
+
+> **If using Anaconda:**
+> - Create a **virtual environment** and activate it.
+> - Install all required packages within the virtual environment.
+
+## Tech Stack Used
+
+1. **Python** – Programming Language
+2. **LangChain** – Framework for working with LLMs
+3. **Flask** – Web application development
+4. **Llama 2** – Large Language Model powering the chatbot
+5. **Pinecone** – Vector database for storing and retrieving embeddings
+
 
 ## Project Architecture
 _**Back-end Architecture:**_
